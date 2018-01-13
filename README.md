@@ -2,6 +2,7 @@
 Stock Price Viewer
 
 # 1: create a db-server
+dev1
 
 
 
